@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://telegra.ph/file/2eb981ed36e0cf73bcc98.jpg" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>🔥JUNED'S BOT🔥</b>
 </h1>
 
 
@@ -60,8 +60,8 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
 * `SELF_DELETE`: True if SELF_DELETE is On, False if Off
 * `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
-* `START_TXT`: Enter Your Start Message
-* `ABOUT_TXT`: Enter Your About Message 
+* `START_TXT`: HELLO GUYS 🚀🤘🏻❤️❤️❤️❤️ I AM A 🔥BOT🔥 MADE BY 🔥**JUNED**🔥
+* `ABOUT_TXT`: BE FREE TO ASK ME IN THIS GROUP IF IT CAME TO MY SIGHT OF MY EYES I WILL REPLY
 
 
 ## Deploy
